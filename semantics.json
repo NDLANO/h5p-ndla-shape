@@ -77,7 +77,7 @@
   {
     "type": "group",
     "name": "svg3d",
-    "widget": "NDLAShowWhen",
+    "widget": "showWhen",
     "expanded": true,
     "showWhen": {
       "rules": [
@@ -135,7 +135,7 @@
   {
     "type": "group",
     "name": "svg",
-    "widget": "NDLAShowWhen",
+    "widget": "showWhen",
     "expanded": true,
     "showWhen": {
       "rules": [
@@ -177,7 +177,7 @@
   {
     "type": "group",
     "name": "svgpolygon",
-    "widget": "NDLAShowWhen",
+    "widget": "showWhen",
     "expanded": true,
     "showWhen": {
       "rules": [
@@ -346,7 +346,7 @@
   {
     "type": "group",
     "name": "shape",
-    "widget": "NDLAShowWhen",
+    "widget": "showWhen",
     "expanded": true,
     "showWhen": {
       "rules": [
@@ -634,7 +634,7 @@
             "label": "20"
           }
         ],
-        "widget": "NDLAShowWhen",
+        "widget": "showWhen",
         "showWhen": {
           "rules": [
             {
@@ -649,7 +649,7 @@
   {
     "type": "group",
     "name": "line",
-    "widget": "NDLAShowWhen",
+    "widget": "showWhen",
     "expanded": true,
     "showWhen": {
       "rules": [
